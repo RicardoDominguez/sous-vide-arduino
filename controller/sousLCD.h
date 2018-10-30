@@ -8,7 +8,7 @@ Last updated: 09/2017
 
 #include <Arduino.h>
 #include <LiquidCrystal.h> //Library for LiquidCrystal screen
-#include <sousEnv.h> //SousVide environment
+#include "sousEnv.h" //SousVide environment
 
 class sousLCD
 {

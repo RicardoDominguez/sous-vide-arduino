@@ -21,9 +21,6 @@ A standard cheap slow cooker can be converted to a sous vide cooker by adding te
 
 # Libraries required
 
-The contents of `libraries\` must be placed on `$YOUR_ARDUINO_PATH$\libraries\`.
-
-Additional libraries required:
   * [`OneWire`](https://www.arduinolibraries.info/libraries/one-wire)
   * [`DallasTemperature`](https://www.arduinolibraries.info/libraries/dallas-temperature)
   * [`LiquidCrystal`](https://www.arduinolibraries.info/libraries/liquid-crystal)

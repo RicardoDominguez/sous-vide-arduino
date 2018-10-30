@@ -8,8 +8,8 @@ Last updated: 07/2017
 //  -Limit within bounds
 //When heating keep on
 
-#include <sousLCD.h>
-#include <sousEnv.h>
+#include "sousLCD.h"
+#include "sousEnv.h"
 #include <PID_v1.h>
 
 #define ON  1
